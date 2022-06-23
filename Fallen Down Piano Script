@@ -6,4 +6,4 @@ shared.ftime = 2*60 + 40 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ G S G S G S G S G S G S a p S p a f D f G D a G a G a G a G a G a h G S G S f G f d S G S G S G S G S G S G S a p S p a f D f G D a G a G a G a G a G a h G S G S f G f d [?S] [2G] S G [?S] G S [?G] S G S [!G] S [?a] p S p a [?f] D f G D a [?G] a [2G] a G a G a [?G] a h 2 [?G] S G S f G f [?d] [!S] [2G] S G [?S] G S [?G] S G S [!G] S [?a] p S p a [?f] D f G D a [?G] a [2G] a G a G a [?G] a h 2 [?G] S G S f G d G [!S] G S G S G S G S G S G S a p S p a f D f G D a ]]
+shared.scr = [[ [6s] G S G S G S G S G S G S a p S p a f D f G D a G a G a G a G a G a h G S G S f G f d S G S G S G S G S G S G S a p S p a f D f G D a G a G a G a G a G a h G S G S f G f d [?S] [2G] S G [?S] G S [?G] S G S [!G] S [?a] p S p a [?f] D f G D a [?G] a [2G] a G a G a [?G] a h 2 [?G] S G S f G f [?d] [!S] [2G] S G [?S] G S [?G] S G S [!G] S [?a] p S p a [?f] D f G D a [?G] a [2G] a G a G a [?G] a h 2 [?G] S G S f G d G [!S] G S G S G S G S G S G S a p S p a f D f G D a ]]
